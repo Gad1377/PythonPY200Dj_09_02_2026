@@ -18,7 +18,7 @@ class TemplateForm(forms.Form):
     my_date = forms.DateField()
     my_number = forms.IntegerField()
     my_checkbox = forms.BooleanField()
-    # TODO Опишите поля (поле для email, пароля, даты, целого числа, переключателя) и их параметры для вашего шаблона формы
+
 
 
 """
